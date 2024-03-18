@@ -1,0 +1,6 @@
+# Player name
+Max
+# Mode(biatlon, pmdm)
+pmdm
+# Comments
+Something

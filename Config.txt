@@ -1,0 +1,9 @@
+#Serial names of alts and their correct tags
+FCA5675ECD2CCAD2, V1
+27258864FBC4D4DA, V2
+9F5AC4BE237ADA81, V3
+A3C1DFC5DD8A0DAB, V4
+# Mode of Writing: Options : (maxHzSleep0, Sleep1)
+maxHzSleep0
+# Mode of painting graph and writing: (Paint, Write, Both(only Sleep1))
+Write
